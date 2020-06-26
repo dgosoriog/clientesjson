@@ -20,7 +20,8 @@
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"
-    }
+    },
+    "img"="client1.png"
   },
   {
     "id": 2,
@@ -43,7 +44,8 @@
       "name": "Deckow-Crist",
       "catchPhrase": "Proactive didactic contingency",
       "bs": "synergize scalable supply-chains"
-    }
+    },
+    "img"="client2.jpg"
   },
   {
     "id": 3,
@@ -66,7 +68,8 @@
       "name": "Romaguera-Jacobson",
       "catchPhrase": "Face to face bifurcated interface",
       "bs": "e-enable strategic applications"
-    }
+    },
+    "img"="client3.jpg"
   },
   {
     "id": 4,
@@ -89,7 +92,7 @@
       "name": "Robel-Corkery",
       "catchPhrase": "Multi-tiered zero tolerance productivity",
       "bs": "transition cutting-edge web services"
-    }
+    },"img"="client4.png"
   },
   {
     "id": 5,
@@ -112,7 +115,7 @@
       "name": "Keebler LLC",
       "catchPhrase": "User-centric fault-tolerant solution",
       "bs": "revolutionize end-to-end systems"
-    }
+    },"img"="client5.png"
   },
   {
     "id": 6,
@@ -135,7 +138,7 @@
       "name": "Considine-Lockman",
       "catchPhrase": "Synchronised bottom-line interface",
       "bs": "e-enable innovative applications"
-    }
+    },"img"="client6.png"
   },
   {
     "id": 7,
@@ -158,7 +161,7 @@
       "name": "Johns Group",
       "catchPhrase": "Configurable multimedia task-force",
       "bs": "generate enterprise e-tailers"
-    }
+    },"img"="client7.png"
   },
   {
     "id": 8,
@@ -181,7 +184,7 @@
       "name": "Abernathy Group",
       "catchPhrase": "Implemented secondary concept",
       "bs": "e-enable extensible e-tailers"
-    }
+    },"img"="client8.png"
   },
   {
     "id": 9,
@@ -204,7 +207,7 @@
       "name": "Yost and Sons",
       "catchPhrase": "Switchable contextually-based project",
       "bs": "aggregate real-time technologies"
-    }
+    },"img"="client9.png"
   },
   {
     "id": 10,
@@ -227,6 +230,6 @@
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
-    }
+    },"img"="client10.png"
   }
 ]
